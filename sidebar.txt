@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tiv:home|Door43 (tiv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tiv|d43-tiv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tiv/archive/master.zip|d43-tiv.zip]]
+
+**Recent Changes**
+{{changes>ns = tiv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tiv|Ethnologue data]]
+
